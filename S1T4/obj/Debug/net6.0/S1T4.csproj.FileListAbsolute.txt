@@ -1,0 +1,15 @@
+D:\Seminar1\S1T4\obj\Debug\net6.0\S1T4.csproj.AssemblyReference.cache
+D:\Seminar1\S1T4\obj\Debug\net6.0\S1T4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Seminar1\S1T4\obj\Debug\net6.0\S1T4.AssemblyInfoInputs.cache
+D:\Seminar1\S1T4\obj\Debug\net6.0\S1T4.AssemblyInfo.cs
+D:\Seminar1\S1T4\obj\Debug\net6.0\S1T4.csproj.CoreCompileInputs.cache
+D:\Seminar1\S1T4\bin\Debug\net6.0\S1T4.exe
+D:\Seminar1\S1T4\bin\Debug\net6.0\S1T4.deps.json
+D:\Seminar1\S1T4\bin\Debug\net6.0\S1T4.runtimeconfig.json
+D:\Seminar1\S1T4\bin\Debug\net6.0\S1T4.dll
+D:\Seminar1\S1T4\bin\Debug\net6.0\ref\S1T4.dll
+D:\Seminar1\S1T4\bin\Debug\net6.0\S1T4.pdb
+D:\Seminar1\S1T4\obj\Debug\net6.0\S1T4.dll
+D:\Seminar1\S1T4\obj\Debug\net6.0\ref\S1T4.dll
+D:\Seminar1\S1T4\obj\Debug\net6.0\S1T4.pdb
+D:\Seminar1\S1T4\obj\Debug\net6.0\S1T4.genruntimeconfig.cache
